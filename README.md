@@ -6,3 +6,6 @@ check commit link in local
 
 
 add commit script
+
+
+complete working
