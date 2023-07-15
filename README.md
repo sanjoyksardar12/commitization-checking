@@ -1,1 +1,2 @@
 # commitization-checking
+# commitization-checking
